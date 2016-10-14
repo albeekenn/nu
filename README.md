@@ -9,7 +9,7 @@ Steps for installing and configuring APEX server...
 	a - install some important packages
 	sudo yum install -y zip unzip wget telnet
 
-2. Create a apexuser 
+2. Create a apexuser
 	useradd -d /home/apexuser apexuser
 	passwd password
 	
